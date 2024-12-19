@@ -1,0 +1,23 @@
+dn: cn=schema
+objectClass: top
+objectClass: ldapSubentry
+objectClass: subschema
+cn: schema
+description: Schema for example LDAP
+
+# Définition d'un attribut
+attributetype ( 1.3.6.1.4.1.4203.1.1.1
+  NAME 'exampleAttribute'
+  DESC 'Un attribut d'exemple'
+  EQUALITY caseIgnoreMatch
+  SYNTAX 1.3.6.1.4.1.1466.115.121.1.15
+  SINGLE-VALUE )
+
+# Définition d'une classe d'objet
+objectclass ( 1.3.6.1.4.1.4203.1.2.1
+  NAME 'exampleObject'
+  DESC 'Une classe d'objet d'exemple'
+  SUP top
+  STRUCTURAL
+  MUST ( exampleAttribute )
+  MAY ( description ) )

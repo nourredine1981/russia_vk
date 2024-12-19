@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Affichage des fichiers XML</title>
+    <style>
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ccc;
+            overflow-x: auto;
+        }
+    </style>
+    <script>
+        function loadXML(file) {
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    displayResult(this, file);
+                }
+            };
+            xmlhttp.open("GET", file, true);
+            xmlhttp.send();
+        }
+
+        function displayResult(xml, file) {
+            var xmlDoc = xml.responseXML;
+            var pre = document.createElement('pre');
+            pre.textContent = new XMLSerializer().serializeToString(xmlDoc.documentElement);
+            document.getElementById("result").appendChild(pre);
+        }
+
+        function loadAllXMLFiles() {
+            var files = [
+                'C:/xml/file1.xml.node_repl_history',
+                'C:/xml/file2.xml.node_repl_history',
+                'C:/xml/file3.xml.node_repl_history'
+            ];
+            files.forEach(function(file) {
+                loadXML(file);
+            });
+        }
+
+        window.onload = loadAllXMLFiles;
+    </script>
+</head>
+<body>
+    <h1>Contenu des fichiers XML</h1>
+    <div id="result"></div>
+</body>
+</html>

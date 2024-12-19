@@ -1,0 +1,430 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+
+<head>
+<title>.．</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="//cimg.nosv.org/commu/css/style.css?9" rel="stylesheet">
+<link href="//cimg.nosv.org/commu/css/simple.css?i" rel="stylesheet">
+<link href="//cimg.nosv.org/commu/css/bootstrap.css?c" rel="stylesheet">
+<link href="//cimg.nosv.org/commu/css/two.css?8" rel="stylesheet">
+<link rel="stylesheet" href="//cimg.nosv.org/commu/css/bubble/bubbles.css?8" type="text/css" media="screen" charset="utf-8" />
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="//cimg.nosv.org/common/js/jquery-cookie.min.js"></script>
+<link rel="stylesheet" id="designcss">
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-9346429-5']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+</head>
+
+<body>
+
+
+<div id="container">
+<div id="header">
+<div id="header_content">
+<h1><a href="/"><span>.．</span></a></h1>
+<div id="topnavi">
+</div><!--topnavi-->
+</div><!--header_content-->
+</div><!--header-->
+
+<script type="text/javascript" src="//cimg.nosv.org/umedia/js/umtool.min.js?20241219" charset="utf-8"></script>
+<script type="text/javascript">
+
+$('body').umbar();
+
+</script>
+
+<div id="menuwrapper">
+<div id="menubar">
+<a href="/">トップ</a><span class="sep"> | </span>
+<a href="/newpost">新着の発言</a><span class="sep"> | </span>
+<a href="/searchp">プロフ検索</a><span class="sep"> | </span><a href="/page/about">このサイトは何？</a><span class="sep"> | </span>
+<a href="/page/term">ルール</a></div>
+</div>
+
+<div style="text-align:center;padding-bottom:13px;margin-bottom:8px;border-bottom:solid 1px #f0f0f0;">
+<!-- i-mobile for PC client script -->
+<script type="text/javascript">
+    imobile_pid = "6341"; 
+    imobile_asid = "298895"; 
+    imobile_width = 728; 
+    imobile_height = 90;
+</script>
+<script type="text/javascript" src="//spdeliver.i-mobile.co.jp/script/ads.js?20101001"></script>
+</div><script type="text/javascript">
+$(document).ready(function(){
+});
+</script>
+<link href="//cimg.nosv.org/commu/css/simple_bbs.css?8" rel="stylesheet">
+
+
+<script type="text/javascript">
+<!--
+function textareaResize(event)
+{
+    var m = event.target || event.srcElement;
+
+    var keycode = event.keyCode;
+    if (keycode == 13) {
+        //var m = document.getElementById(elem_id);
+        var r = m.getAttribute("rows");
+        m.setAttribute("rows", parseInt(r)+1);
+    }
+}
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
+function disableSubmit(form) {
+  var elements = form.elements;
+  var submit = "";
+  for (var i = 0; i < elements.length; i++) {
+    if (elements[i].type == 'submit') {
+      elements[i].style.display = 'none';//true;
+      submit = elements[i];
+    }
+  }
+  var tmp = function() {
+      submit.style.display = 'inline';// = false;
+  };
+  setTimeout(tmp, 3000);
+}
+//-->
+</script>
+
+<div id="wrapper">
+<div id="content">
+
+
+
+
+
+
+
+
+<h2 style="font-size:1.3em"><a href="/bbs/t%3A.%EF%BC%8E">.．</a></h2><div class="content_c">
+
+<form method="post" action="/bbs/write" onsubmit="disableSubmit(this)">
+<input type="hidden" name="exec" value="1">
+<input type="hidden" name="ssid" id="p_ssid" value="7fd2ca7c7dbc5e0d02fe908c2ce16459_c07b0d9e">
+<input type="hidden" name="bid" value="t:.．">
+<dl>
+<dt>メッセージ送信</dt>
+<dd><textarea class="form-control" rows="4" cols="60" name="message" id="message" onkeydown="textareaResize(event)"></textarea>
+<dd/>
+<dt><dt>
+<dd style="margin-top:4px;"><input type="submit" name="" value="かきこみ" class="btn btn-default btn-gray"><br>
+<span style="color:red;font-size:0.85em">(出会い目的の書込は法律で罰せられます→<a href="/page/term">ルール</a>)</span></dd>
+</dl>
+</form>
+
+
+<div class="bubble">
+<blockquote>
+<p class="bigfont">
+<a href="#0"> <span style="font-size:0.66em">2020年8月4日 22時</span></a>
+<span style="color:#c0c0c0">/</span><a href="#1"> <span style="font-size:0.66em">2020年8月4日 15時</span></a>
+</p></blockquote>
+</div>
+
+<h3>メッセージ一覧</h3>
+
+<a name="0" id="0"></a>
+<div class="bubble">
+<blockquote>
+<p class="bigfont"></p>
+</blockquote>
+<cite>
+<img src="//p01.nosv.org/?src=https://commu.nosv.org/datas/profimg/7/7/3/773b2f9f33010960ec152ead4be09cbc_mribntsw_prof.jpg&w=16&h=16&ext=1" align="absmiddle">
+<strong><a href="/bbs/mribntsw/">沢田</a></strong>  <span class="muser" style="font-size:0.8em">(<a href="/p/mribntsw/">プロフ</a>) [2020年8月4日 22時]</span>
+ <a href="/bbs/t%3A.%EF%BC%8E/8989128" style="font-size:0.8em">[固定リンク]</a>
+<img src="//cimg.nosv.org/commu/emoji/337.gif" alt="PCから"> <span style="font-size:0.8em">[<a href="/?m=baduser&bid=mribntsw&kid=8989128">違反報告・ブロック</a>]</span>
+</cite>
+</div>
+
+<div style="clear:both"></div>
+
+
+
+
+<form method="post" action="/bbs/write" class="res" onsubmit="disableSubmit(this)" id="res_8989128">
+<input type="hidden" name="exec" value="2">
+<input type="hidden" name="ssid" id="p_ssid" value="7fd2ca7c7dbc5e0d02fe908c2ce16459_c07b0d9e">
+<input type="hidden" name="bid" value="t:.．">
+<input type="hidden" name="pid" value="8989128">
+<dl>
+<dt><dt>
+<dd><textarea class="form-control" rows="2" cols="60" name="message" id="message_8989128" onkeydown="textareaResize(event)"></textarea>
+<input type="submit" name="" value="返　信" class="btn btn-default btn-gray"></dd>
+</dl>
+</form>
+
+<a name="1" id="1"></a>
+<div class="bubble">
+<blockquote>
+<p class="bigfont"></p>
+</blockquote>
+<cite>
+<img src="//p01.nosv.org/?src=https://commu.nosv.org/datas/profimg/7/7/3/773b2f9f33010960ec152ead4be09cbc_mribntsw_prof.jpg&w=16&h=16&ext=1" align="absmiddle">
+<strong><a href="/bbs/mribntsw/">沢田</a></strong>  <span class="muser" style="font-size:0.8em">(<a href="/p/mribntsw/">プロフ</a>) [2020年8月4日 15時]</span>
+ <a href="/bbs/t%3A.%EF%BC%8E/8988821" style="font-size:0.8em">[固定リンク]</a>
+<img src="//cimg.nosv.org/commu/emoji/337.gif" alt="PCから"> <span style="font-size:0.8em">[<a href="/?m=baduser&bid=mribntsw&kid=8988821">違反報告・ブロック</a>]</span>
+</cite>
+</div>
+
+<div style="clear:both"></div>
+
+<div class="tinfo">
+<a href="/bbs/t%3A.%EF%BC%8E/8988821">最新の返信のみを表示しています → 全部見る(全11件)</a>
+</div>
+
+
+
+<div class="tres">
+<div class="bubble">
+<blockquote>
+<p>分かる<br>ピンクってThe女の子って感じで好き^_^</p>
+</blockquote>
+<cite>
+<img src="//p01.nosv.org/?src=https://commu.nosv.org/datas/profimg/5/5/7/557e5f7c5fb40c480b9b63ce3db2efb0_monaka12_prof.jpg&w=16&h=16&ext=1" align="absmiddle">
+<strong><a href="/bbs/monaka12/">👋👋</a></strong> <span class="muser" style="font-size:0.8em">(<a href="/p/monaka12/">プロフ</a>) [2020年8月6日 19時] 7番目の返信</span>
+ <img src="//cimg.nosv.org/commu/img/sp.gif" align="absmiddle" alt="スマホ"> <span style="font-size:0.8em">[<a href="/?m=baduser&bid=monaka12&kid=8988821">違反報告・ブロック</a>]</span>
+</cite>
+</div>
+</div>
+
+<div style="clear:both"></div>
+
+<div class="tres">
+<div class="bubble">
+<blockquote>
+<p>んね~！<br>紫も好き</p>
+</blockquote>
+<cite>
+<img src="//p01.nosv.org/?src=https://commu.nosv.org/datas/profimg/7/7/3/773b2f9f33010960ec152ead4be09cbc_mribntsw_prof.jpg&w=16&h=16&ext=1" align="absmiddle">
+<strong><a href="/bbs/mribntsw/">沢田</a></strong> <span class="muser" style="font-size:0.8em">(<a href="/p/mribntsw/">プロフ</a>) [2020年8月6日 20時] 8番目の返信</span>
+ <img src="//cimg.nosv.org/commu/img/sp.gif" align="absmiddle" alt="スマホ"> <span style="font-size:0.8em">[<a href="/?m=baduser&bid=mribntsw&kid=8988821">違反報告・ブロック</a>]</span>
+</cite>
+</div>
+</div>
+
+<div style="clear:both"></div>
+
+<div class="tres">
+<div class="bubble">
+<blockquote>
+<p>可愛いよなぁマジ<br>でも小二くらいになると謎にピンク嫌いって言うんだよね、、(?)</p>
+</blockquote>
+<cite>
+<img src="//p01.nosv.org/?src=https://commu.nosv.org/datas/profimg/5/5/7/557e5f7c5fb40c480b9b63ce3db2efb0_monaka12_prof.jpg&w=16&h=16&ext=1" align="absmiddle">
+<strong><a href="/bbs/monaka12/">👋👋</a></strong> <span class="muser" style="font-size:0.8em">(<a href="/p/monaka12/">プロフ</a>) [2020年8月6日 20時] 9番目の返信</span>
+ <img src="//cimg.nosv.org/commu/img/sp.gif" align="absmiddle" alt="スマホ"> <span style="font-size:0.8em">[<a href="/?m=baduser&bid=monaka12&kid=8988821">違反報告・ブロック</a>]</span>
+</cite>
+</div>
+</div>
+
+<div style="clear:both"></div>
+
+<div class="tres">
+<div class="bubble">
+<blockquote>
+<p>いやわかる〜<br>中学生とかこじらせ過ぎて黒物しかもたんくなる…</p>
+</blockquote>
+<cite>
+<img src="//p01.nosv.org/?src=https://commu.nosv.org/datas/profimg/7/7/3/773b2f9f33010960ec152ead4be09cbc_mribntsw_prof.jpg&w=16&h=16&ext=1" align="absmiddle">
+<strong><a href="/bbs/mribntsw/">沢田</a></strong> <span class="muser" style="font-size:0.8em">(<a href="/p/mribntsw/">プロフ</a>) [2020年8月6日 20時] 10番目の返信</span>
+ <img src="//cimg.nosv.org/commu/img/sp.gif" align="absmiddle" alt="スマホ"> <span style="font-size:0.8em">[<a href="/?m=baduser&bid=mribntsw&kid=8988821">違反報告・ブロック</a>]</span>
+</cite>
+</div>
+</div>
+
+<div style="clear:both"></div>
+
+<div class="tres">
+<div class="bubble">
+<blockquote>
+<p>わ〜それわたし、、()<br>中学の時黒か白だったもん、、ピンクとか水色とか好きじゃないってめっちゃ言ってたの覚えてる^_^</p>
+</blockquote>
+<cite>
+<img src="//p01.nosv.org/?src=https://commu.nosv.org/datas/profimg/5/5/7/557e5f7c5fb40c480b9b63ce3db2efb0_monaka12_prof.jpg&w=16&h=16&ext=1" align="absmiddle">
+<strong><a href="/bbs/monaka12/">👋👋</a></strong> <span class="muser" style="font-size:0.8em">(<a href="/p/monaka12/">プロフ</a>) [2020年8月6日 23時] 11番目の返信</span>
+ <img src="//cimg.nosv.org/commu/img/sp.gif" align="absmiddle" alt="スマホ"> <span style="font-size:0.8em">[<a href="/?m=baduser&bid=monaka12&kid=8988821">違反報告・ブロック</a>]</span>
+</cite>
+</div>
+</div>
+
+<div style="clear:both"></div>
+
+<form method="post" action="/bbs/write" class="res" onsubmit="disableSubmit(this)" id="res_8988821">
+<input type="hidden" name="exec" value="2">
+<input type="hidden" name="ssid" id="p_ssid" value="7fd2ca7c7dbc5e0d02fe908c2ce16459_c07b0d9e">
+<input type="hidden" name="bid" value="t:.．">
+<input type="hidden" name="pid" value="8988821">
+<dl>
+<dt><dt>
+<dd><textarea class="form-control" rows="2" cols="60" name="message" id="message_8988821" onkeydown="textareaResize(event)"></textarea>
+<input type="submit" name="" value="返　信" class="btn btn-default btn-gray"></dd>
+</dl>
+</form>
+
+
+
+</div><!--content_c-->
+
+</div><!--content-->
+</div><!--wrapper-->
+
+
+<div id="navigation">
+
+
+<!--ログインフォーム-->
+<h2>登録する</h2>
+<p><a href="/register" class="btn btn-primary" style="width:95%;margin-top:6px;">ユーザ登録画面に移動</a><br>
+</p>
+<h2>ログイン</h2>
+<form method="post" action="https://commu.nosv.org/login" id="loginform">
+<input type="hidden" name="go" value="/bbs/t%3A.%EF%BC%8E">
+<dl>
+<dt>ＩＤ<span style="font-size:0.8em">または</span>メールアドレス：</dt>
+<dd><input type="text" name="id" value="" class="form-control" id="username"></dd>
+<dt>パスワード：</dt>
+<dd><input type="password" name="pw" value="" class="form-control" id="password"></dd>
+</dl>
+<input type="submit" value="ログイン" class="btn btn-success" id="loginbtn"><span class="sep"> | </span><a href="/reminder" style="margin-top:8px;display">パスワードを忘れた</a>
+<br><br>
+<span class="ologin"><img src="//cimg.nosv.org/commu/css/twitter.gif" align="absmiddle"> <a href="https://commu.nosv.org/auth/go/login.php?provider=Twitter">Twitterでログイン</a></span><br>
+<span class="ologin"><img src="//cimg.nosv.org/commu/css/google.gif" align="absmiddle"> <a href="https://commu.nosv.org/auth/go/login.php?provider=Google">Googleでログイン</a></span><br>
+<span class="ologin"><img src="//cimg.nosv.org/commu/css/facebook.gif" align="absmiddle"> <a href="https://commu.nosv.org/auth/go/login.php?provider=Facebook">Facebookでログイン</a></span><br>
+<span class="ologin"><img src="//cimg.nosv.org/commu/css/apple.png"> <a href="https://commu.nosv.org/auth/apple/login.php">Appleでログイン</a></span><br>
+<span class="ologin" style="display:inline-block;margin-top:8px;font-size:0.85em">&nbsp;&nbsp;&nbsp;&nbsp; <a href="/page/ologin">他サイトIDでログインできない場合</a></span>
+</form>
+<!--/ログインフォーム-->
+<br>
+
+
+<div style="margin-bottom:10px;margin-top:20px;margin-left: -4px;">
+<!-- i-mobile for PC client script -->
+<script type="text/javascript">
+    imobile_pid = "6341"; 
+    imobile_asid = "298897"; 
+    imobile_width = 300; 
+    imobile_height = 250;
+</script>
+<script type="text/javascript" src="//spdeliver.i-mobile.co.jp/script/ads.js?20101001"></script>
+</div>
+
+
+
+</div><!--navigation-->
+
+
+<script type="text/javascript">
+<!--
+function toggleItem(id)
+{
+    var elem = document.getElementById(id);
+    if (elem.style.display == 'none') {
+        elem.style.display = 'block';
+        var id_message = id.replace('res_', 'message_');
+        var elem_message = document.getElementById(id_message);
+        if (elem_message != undefined) {
+            elem_message.focus();
+        }
+    } else {
+        elem.style.display = 'none';
+    }
+}
+-->
+</script>
+
+
+<div style="clear:both"></div>
+<div style="text-align:center;padding-top:10px;margin-top:15px;">
+<!-- i-mobile for PC client script -->
+<script type="text/javascript">
+    imobile_pid = "6341"; 
+    imobile_asid = "298896"; 
+    imobile_width = 728; 
+    imobile_height = 90;
+</script>
+<script type="text/javascript" src="//spdeliver.i-mobile.co.jp/script/ads.js?20101001"></script>
+</div>
+
+<div id="footer">
+
+<p id="footlink">
+<a href="/bbs/notice">機能追加/変更要望/不具合報告</a> <span class="sep">|</span>
+<a href="/page/contact">お問い合わせ</a> <span class="sep">|</span>
+<a href="/page/privacy">プライバシーポリシー</a> <span class="sep">|</span>
+<a href="#" class="gotop">ページトップに戻る</a>
+<br>
+</p>
+</div><!--footer-->
+
+<div id="userfooter">(C) <a href="https://commu.nosv.org">COMMU</a></div>
+
+</div><!--container-->
+
+
+<script type="text/javascript">
+<!--
+// smooth scroller
+$("a[href^=#]").click(function() {
+    var hash = this.hash;
+    try {
+        if (hash != '' && ($(hash).attr('name') == undefined || $(hash).attr('name') == '')) return true;
+    } catch( e ) {
+        return false;
+    }
+    if (hash == '#' || hash == '' || hash == undefined) {
+        if ($(this).attr('class') == 'gotop') {
+            $('html,body').animate({scrollTop: 0}, 500);
+        }
+    } else {
+        var mtop = $(this).attr('data-mtop');
+        if (mtop == '' || mtop == undefined || mtop == null) mtop = 8;
+        $('html,body').animate({scrollTop: $(hash).offset().top-mtop}, 500);
+        return false;
+    }
+    return false;
+});
+//-->
+</script>
+
+
+
+<script type="text/javascript" src="//cimg.nosv.org/common/js/localStorage.min.js"></script>
+<script type="text/javascript" src="//cimg.nosv.org/common/js/jquery-cookie.min.js"></script>
+<script type="text/javascript">
+<!--
+var bk_s = localStorage.getItem('bk');
+if (bk_s == 'null' || bk_s == null) bk_s = '';
+var bk_c = $.cookie('bk');
+if (bk_s != '' && bk_s != bk_c) {
+    $.cookie('bk', bk_s, { path: '/', expires: 24*3600*365 });
+}
+if (bk_s == '' && bk_c != '') {
+    localStorage.setItem('bk', bk_c);
+}
+-->
+</script>
+</body>
+</html>
+<script type="text/javascript"><!--
+var ID="100767911";var AD=4;var FRAME=0;
+// --></script>

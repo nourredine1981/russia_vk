@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <script>
-    function loadXMLDoc() {
+        function loadXMLDoc() {
             var xmlhttp = new XMLHttpRequest(); xmlhttp.onreadystatechange = function () {
                 console.log("readyState:", xmlhttp.readyState, "status:", xmlhttp.status); // Ajout pour le débogage if (this.readyState == 4 && this.status == 200) { displayResult(this); } }; xmlhttp.open("GET", "https://api.example.com/endpoint", true); // Remplacez par l'URL de l'API xmlhttp.setRequestHeader("Content-Type", "application/xml"); xmlhttp.send(` <?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE request PUBLIC "-//W3C//DTD XML 1.0//EN" "http://www.w3.org/TR/REC-xml"> <request> <query>Sophia</query> </request> `); } function displayResult(xml) { var xmlDoc = xml.responseXML; var result = xmlDoc.getElementsByTagName("response")[0].childNodes[0].nodeValue; document.getElementById("result").innerHTML = result; } </script>
 
@@ -10,7 +10,7 @@
     <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"> <PropertyGroup> <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration> <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform> <OutputPath>bin\$(Configuration)\</OutputPath> </PropertyGroup> <ItemGroup> <Reference Include="System" /> <Reference Include="System.Core" /> </ItemGroup> <ItemGroup> <Compile Include="Program.cs" /> </ItemGroup> <Target Name="Build"> <Csc Sources="@(Compile)" References="@(Reference)" OutputAssembly="$(OutputPath)MyApp.exe" /> </Target> </Project>
 
     <script>
-            function loadXMLDoc() { var xmlhttp = new XMLHttpRequest(); xmlhttp.onreadystatechange = function () { console.log("readyState:", xmlhttp.readyState, "status:", xmlhttp.status); if (this.readyState == 4 && this.status == 200) { displayResult(this); } }; xmlhttp.open("GET", "https://api.example.com/endpoint", true); xmlhttp.setRequestHeader("Content-Type", "application/xml"); xmlhttp.send(` <?xml version="1.0" encoding="UTF-8"?> <request> <query>Sophia</query> </request> `); } function displayResult(xml) {
+        function loadXMLDoc() { var xmlhttp = new XMLHttpRequest(); xmlhttp.onreadystatechange = function () { console.log("readyState:", xmlhttp.readyState, "status:", xmlhttp.status); if (this.readyState == 4 && this.status == 200) { displayResult(this); } }; xmlhttp.open("GET", "https://api.example.com/endpoint", true); xmlhttp.setRequestHeader("Content-Type", "application/xml"); xmlhttp.send(` <?xml version="1.0" encoding="UTF-8"?> <request> <query>Sophia</query> </request> `); } function displayResult(xml) {
             var xmlDoc = xml.responseXML; var result = xmlDoc.getElementsByTagName("response")[0].childNodes[0].nodeValue; document.getElementById("result").innerHTML = result;
 < !--Google tag(gtag.js)-- >
                 <script async=async src="https://www.googletagmanager.com/gtag/js?id=G-6Y4EQBYXB4"></script>
@@ -48,13 +48,13 @@
     <!-- Google tag (gtag.js) -->
     <script async=async src="https://www.googletagmanager.com/gtag/js?id=G-6Y4EQBYXB4"></script>
     <script>
-                        window.dataLayer = window.dataLayer || [];
+        window.dataLayer = window.dataLayer || [];
         function gtag() {dataLayer.push(arguments); }
         gtag('js', new Date());
 
         gtag('config', 'G-6Y4EQBYXB4');</script>
     <script type="text/javascript">
-                        var _iub = _iub || [];
+        var _iub = _iub || [];
         _iub.csConfiguration = {"siteId": 3870327, "cookiePolicyId": 42843138, "lang": "fr", "storage": {"useSiteId": true } };</script>
     <script type="text/javascript" src="https://cs.iubenda.com/autoblocking/3870327.js"></script>
     <script type="text/javascript" src="//cdn.iubenda.com/cs/gpp/stub.js"></script>
@@ -165,7 +165,7 @@
 
     <script async=async src="https://www.googletagmanager.com/gtag/js?id=G-6Y4EQBYXB4"></script>
     <script>
-                        window.dataLayer = window.dataLayer || [];
+        window.dataLayer = window.dataLayer || [];
         function gtag() {dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'G-6Y4EQBYXB4'); // ID de balise existant
@@ -8100,10 +8100,10 @@
     <script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-6Y4EQBYXB4');</script>
     <script src="script.js" defer=defer></script>
     <script language="JavaScript">
-                        class TrendsSDK {
+        class TrendsSDK {
             constructor() {this.trends = []; } addTrend(trend) {this.trends.push(trend); } getTrend(index) {
 if (index < 0 || index >= this.trends.length) {
-    throw new RangeError("Index out of range");
+throw new RangeError("Index out of range");
 } return this.trends[index];
 } getNumberOfTrends() { return this.trends.length; }
 }
@@ -8117,7 +8117,7 @@ const li = document.createElement("li"); li.textContent = `Current Trend ${i + 1
 });</script>
 
     <script language="JavaScript">
-                        function getLongDateString() {
+        function getLongDateString() {
             monthNames = new Array("Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre");</script>
     <meta name="revisit_after" content="1 days" />
     <meta name="copyright" content="Zaher Nourredine." />
@@ -8226,7 +8226,7 @@ const li = document.createElement("li"); li.textContent = `Current Trend ${i + 1
     <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"> <PropertyGroup> <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration> <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform> <OutputPath>bin\$(Configuration)\</OutputPath> </PropertyGroup> <ItemGroup> <Reference Include="System" /> <Reference Include="System.Core" /> </ItemGroup> <ItemGroup> <Compile Include="Program.cs" /> </ItemGroup> <Target Name="Build"> <Csc Sources="@(Compile)" References="@(Reference)" OutputAssembly="$(OutputPath)MyApp.exe" /> </Target> </Project>
 
     <script>
-                        function loadXMLDoc() { var xmlhttp = new XMLHttpRequest(); xmlhttp.onreadystatechange = function() {console.log("readyState:", xmlhttp.readyState, "status:", xmlhttp.status); if (this.readyState == 4 && this.status == 200) {displayResult(this); } }; xmlhttp.open("GET", "https://api.example.com/endpoint", true); xmlhttp.setRequestHeader("Content-Type", "application/xml"); xmlhttp.send(` <?xml version="1.0" encoding="UTF-8"?> <request> <query>Sophia</query> </request> `); } function displayResult(xml) { var xmlDoc = xml.responseXML; var result = xmlDoc.getElementsByTagName("response")[0].childNodes[0].nodeValue; document.getElementById("result").innerHTML = result;
+        function loadXMLDoc() { var xmlhttp = new XMLHttpRequest(); xmlhttp.onreadystatechange = function() {console.log("readyState:", xmlhttp.readyState, "status:", xmlhttp.status); if (this.readyState == 4 && this.status == 200) {displayResult(this); } }; xmlhttp.open("GET", "https://api.example.com/endpoint", true); xmlhttp.setRequestHeader("Content-Type", "application/xml"); xmlhttp.send(` <?xml version="1.0" encoding="UTF-8"?> <request> <query>Sophia</query> </request> `); } function displayResult(xml) { var xmlDoc = xml.responseXML; var result = xmlDoc.getElementsByTagName("response")[0].childNodes[0].nodeValue; document.getElementById("result").innerHTML = result;
         <!-- Google tag (gtag.js) -->
         <script async=async src="https://www.googletagmanager.com/gtag/js?id=G-6Y4EQBYXB4"></script>
     <script>function loadXMLDoc() { var xmlhttp = new XMLHttpRequest(); xmlhttp.onreadystatechange = function() { if (this.readyState == 4 && this.status == 200) {displayResult(this); } }; xmlhttp.open("POST", "https://api.example.com/endpoint", true); // Remplacez par l'URL de l'API xmlhttp.setRequestHeader("Content-Type", "application/xml"); xmlhttp.send(` <?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE request PUBLIC "-//W3C//DTD XML 1.0//EN" "http://www.w3.org/TR/REC-xml"> <request> <query>Sophia</query> </request> `); } function displayResult(xml) { var xmlDoc = xml.responseXML; var result = xmlDoc.getElementsByTagName("response")[0].childNodes[0].nodeValue; document.getElementById("result").innerHTML = result; }</script>
@@ -8263,13 +8263,13 @@ const li = document.createElement("li"); li.textContent = `Current Trend ${i + 1
     <!-- Google tag (gtag.js) -->
     <script async=async src="https://www.googletagmanager.com/gtag/js?id=G-6Y4EQBYXB4"></script>
     <script>
-                            window.dataLayer = window.dataLayer || [];
+        window.dataLayer = window.dataLayer || [];
         function gtag() {dataLayer.push(arguments); }
         gtag('js', new Date());
 
         gtag('config', 'G-6Y4EQBYXB4');</script>
     <script type="text/javascript">
-                            var _iub = _iub || [];
+        var _iub = _iub || [];
         _iub.csConfiguration = {"siteId": 3870327, "cookiePolicyId": 42843138, "lang": "fr", "storage": {"useSiteId": true } };</script>
     <script type="text/javascript" src="https://cs.iubenda.com/autoblocking/3870327.js"></script>
     <script type="text/javascript" src="//cdn.iubenda.com/cs/gpp/stub.js"></script>
@@ -8380,7 +8380,7 @@ const li = document.createElement("li"); li.textContent = `Current Trend ${i + 1
 
     <script async=async src="https://www.googletagmanager.com/gtag/js?id=G-6Y4EQBYXB4"></script>
     <script>
-                            window.dataLayer = window.dataLayer || [];
+        window.dataLayer = window.dataLayer || [];
         function gtag() {dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'G-6Y4EQBYXB4'); // ID de balise existant
@@ -16315,7 +16315,7 @@ const li = document.createElement("li"); li.textContent = `Current Trend ${i + 1
     <script>window.dataLayer = window.dataLayer || []; function gtag() {dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-6Y4EQBYXB4');</script>
     <script src="script.js" defer=defer></script>
     <script language="JavaScript">
-                            class TrendsSDK {
+        class TrendsSDK {
             constructor() {this.trends = []; } addTrend(trend) {this.trends.push(trend); } getTrend(index) {
 if (index < 0 || index >= this.trends.length) {
 throw new RangeError("Index out of range");
@@ -16332,7 +16332,7 @@ const li = document.createElement("li"); li.textContent = `Current Trend ${i + 1
 });</script>
 
     <script language="JavaScript">
-                            function getLongDateString() {
+        function getLongDateString() {
             monthNames = new Array("Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre");</script>
     <meta name="revisit_after" content="1 days" />
     <meta name="copyright" content="Zaher Nourredine." />
@@ -40178,7 +40178,39 @@ const li = document.createElement("li"); li.textContent = `Current Trend ${i + 1
     <meta name="robots" content="index, follow" /> <!-- Balises méta pour Steve -->
     <meta name="GOOGLEBOT" content="ALL" />
     <meta name="robots" content="index, follow" /> <!-- Balises méta pour Cass -->
+    <!-- Google tag (gtag.js) -->
+    <script async=async src="https://www.googletagmanager.com/gtag/js?id=G-BSYTM7SD1S"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
+        gtag('config', 'G-BSYTM7SD1S');<!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-BSYTM7SD1S"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-BSYTM7SD1S');
+    </script><!-- Google tag (gtag.js) -->
+    <script async=async src="https://www.googletagmanager.com/gtag/js?id=G-BSYTM7SD1S"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-BSYTM7SD1S');<!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-BSYTM7SD1S"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-BSYTM7SD1S');
+    </script>
+    </script>
+    </script>
     <script language="JavaScript">
         function getLongDateString() {
             monthNames = new Array("Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre");
